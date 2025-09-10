@@ -85,3 +85,4 @@ with open('data/inf_book.JSON', 'a', encoding='utf-8') as file:
 
 
 print('hello')
+print('hello, world')
